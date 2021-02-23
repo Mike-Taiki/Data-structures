@@ -1,6 +1,8 @@
-<img src="https://img.shields.io/badge/license-MIT-brightgreen"/>
-<img src="https://img.shields.io/badge/npm-v6.14.10-brightgreen"/>
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen"/>
+<p>
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen"/>
+  <img src="https://img.shields.io/badge/npm-v6.14.10-brightgreen"/>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen"/>
+<p>
 
 # Data-structures
 Data structures with javascript
