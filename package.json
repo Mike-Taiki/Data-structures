@@ -1,0 +1,20 @@
+{
+  "name": "Data-structures",
+  "version": "1.0.0",
+  "description": "Learning data structures with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Taiki/Data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-Taiki/Data-structures/issues"
+  },
+  "homepage": "https://github.com/Mike-Taiki/Data-structures#readme"
+}
